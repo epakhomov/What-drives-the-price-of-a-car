@@ -6,7 +6,7 @@ This README file provides a summary of findings for Practical Application Assign
 
 ## The objective and the data
 
-The objective of this assignment is to understand what factors make a car more or less expensive. As a result of the analysis, we should provide clear recommendations to your client -- a used car dealership -- as to what consumers value in a used car. The data for this assignment was provided as a subset of original dataset.
+The objective of this assignment is to understand what factors make a car more or less expensive. As a result of the analysis, we should provide clear recommendations to your client -- a used car dealership -- as to what consumers value in a used car. The data for this assignment was provided as a subset of the original dataset.
 
 ## The methods
 
