@@ -10,7 +10,7 @@ The objective of this assignment is to understand what factors make a car more o
 
 ## The methods
 
-The methodology for this assignment was based on CRISP_DM framework and included standard ML stages like Business and Data understanding, Data preparation, etc. Please note that only linear regression models were in the scope of the assignment. In addition, while the [Jupyter notebook](src/prompt_II.ipynb) tries to follow the CRISP_DM framework, this README does not. 
+The methodology for this assignment was based on CRISP_DM framework and included standard ML stages like Business and Data understanding, Data preparation, etc. Please note that only linear regression models were in the scope of the assignment. In addition, while the [Jupyter notebook](https://github.com/epakhomov/What-drives-the-price-of-a-car/blob/main/scr/prompt_II.ipynb) tries to follow the CRISP_DM framework, this README does not. 
 
 ## Data quality and data preparation highlights
 
