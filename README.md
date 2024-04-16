@@ -23,11 +23,11 @@ Standard Pandas deduplication and imputation techniques were used. Non-numeric v
 ## Regression models and performance
 
 The following models were used:
-    - Linear regression
-    - Ridge regression with default parameters
-    - GridsearchCV was used to find optimal alpha for ridge regression
-    - Lasso regression with various parameters
-    - RidgeCV with target log transformation
+- Linear regression
+- Ridge regression with default parameters
+- GridsearchCV was used to find optimal alpha for ridge regression
+- Lasso regression with various parameters
+- RidgeCV with target log transformation
 
 Suprisingly, absolutely all models scored roughly the same for both training and test scores with R2 ~ 0.45.
 
