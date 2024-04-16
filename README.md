@@ -50,9 +50,9 @@ We get similar results from Shap. As we can see from the Shap plot, the higher o
 ## Next steps
 
 We can try improving the model performance by the following:
-    - Improving data preparation and cleaning stages
-    - Acquiring more data from the original dataset
-    - Applying non-linear models
+- Improving data preparation and cleaning stages
+- Acquiring more data from the original dataset
+- Applying non-linear models
 
 ## Non-technical recommendation to a dealership
 
