@@ -16,7 +16,7 @@ The methodology for this assignment was based on CRISP_DM framework and included
 
 The data missed significant portion of values in few categories (Fig.3.), it had many duplicates, outliers, etc. It was also establsihed that nuances of data preparation and cleaning had significant effect on the outcoume. Quantifying this effect is a subject of feature research.
 
-
+<img src="/images/3.png" alt="Fig.3" class="center" style="width:600px;height:auto;">
 
 Standard Pandas deduplication and imputation techniques were used. Non-numeric variables were mean encoded. Outliers were removed empirically. 
 
